@@ -1,3 +1,4 @@
 # EndlessTyping
 hello
 fack
+hello
