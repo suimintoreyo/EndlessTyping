@@ -1,6 +1,6 @@
 # EndlessTyping
 hello
-fack
+fuck
 hello
-fack
+fuck
 hello
